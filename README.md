@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working to **learn and grow as a developer**
 
-- 🌱 I’m currently learning skills in: **- Front-end development: HTML, CSS, JavaScript, React - Back-end development: Node.js, Express, MongoDB - Version control: Git, GitHub**
+- 🌱 I’m currently learning skills in: **- Front-end development: HTML, CSS, JavaScript, React**
 
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **sanasamad592@gmail.com**
 
-- ⚡ Fun fact **I am crazy**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
