@@ -1,11 +1,14 @@
-```md
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 <h1 align="center">Hi 👋, I'm Sana Khan</h1>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer | Building Modern & Scalable Web Applications
+🚀 Full Stack MERN Developer | React.js • Node.js • Express.js • MongoDB
 </h3>
+
+<h4 align="center">
+Building Modern, Scalable & High-Performance Web Applications
+</h4>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -15,56 +18,63 @@
 
 ## 💫 About Me
 
-💻 Full Stack MERN Developer passionate about building high-quality web applications.
+💻 Full Stack MERN Developer passionate about creating powerful, responsive, and user-focused web applications.
 
-🚀 I help businesses, startups, and individuals transform ideas into modern, responsive, and scalable web solutions.
+🚀 I help startups, businesses, and individuals transform ideas into modern digital products using the MERN Stack.
 
-🔭 Currently working on Full Stack MERN projects
+🔥 Specialized in building complete web solutions from frontend interfaces to backend architecture and database integration.
 
-🌱 Constantly learning advanced backend development, APIs, authentication, and database architecture
+🌱 Currently focused on advanced backend development, scalable application architecture, authentication systems, and performance optimization.
 
 💬 Ask me about:
-- React.js
-- JavaScript
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
 
-📫 Contact: **sanasamad592@gmail.com**
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+* Node.js
+* Express.js
+* MongoDB
+* Firebase
+* REST APIs
 
-⚡ Available for Freelance & Remote Opportunities
+📫 Contact Me: **[sanasamad592@gmail.com](mailto:sanasamad592@gmail.com)**
+
+⚡ Available For Freelance Projects & Remote Opportunities
 
 ---
 
-## 🛠️ Services I Provide
+## 🛠️ Professional Services
 
-✅ Custom MERN Stack Web Applications
+✅ Full Stack MERN Applications
 
-✅ Business Websites
+✅ Custom Business Websites
 
-✅ Blog Platforms
+✅ SaaS Platforms
+
+✅ Blog & Content Management Systems
 
 ✅ Admin Dashboards
 
-✅ Authentication Systems
+✅ Authentication & Authorization Systems
 
 ✅ REST API Development
 
-✅ MongoDB Database Integration
+✅ MongoDB Database Design
 
 ✅ Firebase Integration
 
 ✅ Responsive UI Development
 
-✅ Frontend to Backend Integration
+✅ Frontend & Backend Integration
+
+✅ Deployment & Production Setup
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/sana-khan30" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
@@ -76,61 +86,144 @@
 <a href="https://www.youtube.com/@sana-khan30" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
 </a>
+
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
+### Frontend
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### Tools & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📝 BlogVerse - Full Stack MERN Blog Platform
+## 📝 BlogVerse — Full Stack MERN Blog Platform
 
-✔ User Authentication
+🌐 Live Demo: https://blog-verse-xslt.vercel.app/
 
-✔ Rich Text Blog Editor
+### Features
+
+✔ Secure Authentication
+
+✔ Blog Creation & Management
 
 ✔ Bookmark System
 
-✔ Comments & Interactions
+✔ Comments & User Interaction
 
-✔ Dark / Light Theme
-
-✔ Responsive Design
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
----
-
-### 🎓 Class Hackathon Platform
-
-✔ Modern UI
-
-✔ Dynamic Dashboard
-
-✔ Authentication
+✔ Dark & Light Theme
 
 ✔ Responsive Design
 
-**Tech Stack:** MERN Stack
+✔ Modern UI/UX
+
+### Tech Stack
+
+React.js • Node.js • Express.js • MongoDB • JWT Authentication
 
 ---
 
-### 🌍 Travel Website
+## 📄 CV Master — Resume Builder Application
 
-✔ Responsive Layout
+🌐 Live Demo: https://cv-master-kappa.vercel.app/
 
-✔ Modern Design
+### Features
 
-✔ Mobile Friendly
+✔ Dynamic Resume Generation
 
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap
+✔ Professional Resume Templates
+
+✔ Real-Time Editing
+
+✔ Firebase Integration
+
+✔ Responsive Design
+
+✔ User-Friendly Interface
+
+### Tech Stack
+
+React.js • Firebase • Tailwind CSS • JavaScript
+
+---
+
+## 🍣 Luxury Sushi CRUD Application
+
+🌐 Live Demo: https://react-luxury-sushi-web.vercel.app/
+
+### Features
+
+✔ Full CRUD Functionality
+
+✔ Modern Premium UI
+
+✔ Dynamic Data Management
+
+✔ Responsive Design
+
+✔ Interactive User Experience
+
+✔ Beautiful Animations
+
+### Tech Stack
+
+React.js (Hooks & Context API)
+
+Tailwind CSS (Custom Theme Configuration)
+
+Lucide React
+
+SweetAlert2
+
+Vercel / Netlify
+
+---
+
+## 🎯 What I Build
+
+🔹 Full Stack MERN Applications
+
+🔹 SaaS Products
+
+🔹 Business Websites
+
+🔹 Portfolio Websites
+
+🔹 Admin Dashboards
+
+🔹 Authentication Systems
+
+🔹 REST APIs
+
+🔹 CRUD Applications
+
+🔹 Firebase Powered Applications
+
+🔹 Responsive User Interfaces
 
 ---
 
@@ -150,27 +243,42 @@
 
 ---
 
-## 🎯 What I Build
+## 🌱 Currently Learning
 
-🔹 Full Stack MERN Applications
+✔ Advanced Node.js
 
-🔹 Business Websites
+✔ Scalable Backend Architecture
 
-🔹 Portfolio Websites
+✔ MongoDB Aggregation
 
-🔹 Blog Platforms
+✔ Authentication & Security
 
-🔹 Admin Dashboards
+✔ Performance Optimization
 
-🔹 Authentication Systems
-
-🔹 REST APIs
-
-🔹 Responsive User Interfaces
+✔ System Design Fundamentals
 
 ---
 
-### 🚀 Turning Ideas Into Powerful Web Applications
+## 🎯 2026 Goals
 
-⭐ If you like my work, feel free to connect and collaborate.
-```
+🚀 Build Enterprise-Level MERN Applications
+
+🚀 Work With International Clients
+
+🚀 Master Backend Development
+
+🚀 Contribute To Open Source
+
+🚀 Build Scalable SaaS Products
+
+🚀 Grow As A Professional Full Stack Developer
+
+---
+
+<h3 align="center">
+💡 Turning Ideas Into Powerful Web Experiences
+</h3>
+
+<h4 align="center">
+⭐ Open For Freelance Projects, Collaborations & Remote Opportunities
+</h4>
