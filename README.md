@@ -1,70 +1,77 @@
-<!-- HERO HEADER -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Sana%20Khan%20-%20MERN%20Developer&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Sana%20Khan%20-%20MERN%20Developer&fontSize=30&fontColor=ffffff" />
 </p>
 
-<!-- TYPING INTRO -->
+<!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;UI+%2F+UX+Focused+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Scalable+Web+Apps;UI+%2F+UX+Focused+Developer" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-💻 Full Stack MERN Developer passionate about building modern, scalable & high-performance web applications.  
-🚀 I transform ideas into real-world digital products using React, Node.js, Express & MongoDB.  
-🎯 Focused on clean architecture, authentication systems, APIs & UI/UX excellence.  
-🌱 Currently exploring advanced backend architecture & system design.
+💻 Full Stack MERN Developer passionate about building scalable web applications  
+🚀 I turn ideas into real-world products using React, Node.js, Express & MongoDB  
+🎯 Focused on clean code, APIs, authentication systems & UI/UX  
+🌱 Currently improving backend architecture & system design
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind)
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### Database
-![Database](https://skillicons.dev/icons?i=mongodb,firebase)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📝 BlogVerse — MERN Blog Platform
+### 📝 BlogVerse (MERN Blog App)
 🌐 https://blog-verse-xslt.vercel.app/
 
-✔ Authentication (JWT)  
-✔ CRUD Blog System  
-✔ Bookmark & Comments  
+✔ JWT Authentication  
+✔ Blog CRUD System  
+✔ Bookmark Feature  
 ✔ Responsive UI  
-
-**Tech:** React • Node • Express • MongoDB
 
 ---
 
-### 📄 CV Master — Resume Builder
+### 📄 CV Master (Resume Builder)
 🌐 https://cv-master-kappa.vercel.app/
 
 ✔ Resume Builder  
-✔ Real-time editing  
-✔ Firebase integration  
-✔ Templates system  
+✔ Templates System  
+✔ Firebase Integration  
 
 ---
 
-### 🍣 Luxury Sushi App
+### 🍣 Sushi CRUD App
 🌐 https://react-luxury-sushi-web.vercel.app/
 
-✔ Full CRUD system  
-✔ Premium UI/UX  
-✔ Animations & responsiveness  
+✔ CRUD Operations  
+✔ Modern UI  
+✔ Responsive Design  
 
 ---
 
@@ -84,44 +91,25 @@
 
 ---
 
-## 📌 Professional Services
-
-✔ Full Stack MERN Applications  
-✔ SaaS Platforms  
-✔ Business Websites  
-✔ Admin Dashboards  
-✔ Authentication Systems  
-✔ REST APIs  
-✔ Firebase Integration  
-✔ UI/UX Development  
-✔ Deployment & Hosting  
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sana-khan30)
 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sana30)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sana-khan30)
-
 ---
 
-## 🎯 Current Goals
+## 🎯 Goals
 
-🚀 Master System Design  
 🚀 Build SaaS Products  
+🚀 Master System Design  
 🚀 Work with International Clients  
 🚀 Contribute to Open Source  
-🚀 Improve Backend Scalability
 
 ---
 
-## 💡 Developer Quote
+## 💡 Quote
 
 <p align="center">
-  <b>"Turning ideas into scalable web experiences with clean code & modern design."</b>
+<b>"Turning ideas into scalable web applications with clean code & modern design."</b>
 </p>
 
 ---
