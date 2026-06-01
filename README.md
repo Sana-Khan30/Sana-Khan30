@@ -1,18 +1,12 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:2563eb&height=260&section=header&text=Sana%20Khan%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:2563eb&height=240&section=header&text=Sana%20Khan%20🚀&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-Full Stack MERN Developer • React • Node.js • Express • MongoDB
-</h3>
+<h3 align="center">🚀 Full Stack MERN Developer • React • Node.js • Express • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Frontend+%2B+Backend+Engineer;Clean+Code+%7C+Scalable+Architecture;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Clean+Code+%7C+Modern+UI%2FUX;Always+Learning+New+Technologies" />
 </p>
-
----
 
 # 👋 About Me
 
